@@ -165,12 +165,42 @@ javascript
 Question: Use reduce to calculate the total price of all books. Answer:
 
 
-
 Bonus Questions
 Question: Use a for...of loop to print the title and author of each book in the books array. Answer:
 
 
 Question: Write a function updateAge that takes an object and an age parameter, updates the object's age, and returns the updated object. Answer:
+
+
+
+Question: Create a Set named numbers containing the values 1, 2, 3, 4, 5. Answer:
+
+
+Question: Add the value 6 to the numbers set. Answer:
+
+
+Question: Check if the value 3 exists in the numbers set. Answer:
+
+
+Question: Remove the value 2 from the numbers set. Answer:
+
+
+Question: Clear all values from the numbers set. Answer:
+
+
+Question: Create a Set of fruits ['Apple', 'Banana', 'Mango']. Use a for...of loop to print each fruit. Answer:
+
+
+Question: Use the forEach method to print each value in the numbers set. Answer:
+
+
+Question: Create two sets, setA = [1, 2, 3] and setB = [3, 4, 5]. Find their union. Answer:
+
+
+Question: Find the intersection of setA and setB. Answer:
+
+
+Question: Find the difference between setA and setB (values in setA but not in setB). Answer:
 
 
 
